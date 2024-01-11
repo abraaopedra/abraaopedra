@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abraão Pedra</h1>
 <h3 align="center">A tech-savvy that is always ready to learn!</h3>
 
-<p align="left"> <a href="https://twitter.com/abraaostone" target="blank"><img src="https://img.shields.io/twitter/follow/abraaostone?logo=twitter&style=for-the-badge" alt="abraaostone" /></a> </p>
-
 - 📫 How to reach me **abraao.pedra97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
